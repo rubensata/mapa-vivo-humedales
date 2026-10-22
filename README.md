@@ -18,7 +18,11 @@ Visor geoespacial de **humedales urbanos** y **establecimientos industriales SIN
 3. Haz clic en las barras de los gráficos para aplicar ese filtro al mapa.
 4. Activa las capas y el análisis de buffer desde el panel.
 
-Para verlo publicado, se habilitará una demostración con GitHub Pages.
+## Demo
+
+Puedes ver el visor publicado en:
+
+https://rubensata.github.io/mapa-vivo-humedales/
 
 > El visor necesita conexión a internet para cargar el mapa base y la librería de gráficos desde sus CDN.
 
