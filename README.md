@@ -38,8 +38,14 @@ https://rubensata.github.io/mapa-vivo-humedales/
 
 ```text
 mapa-vivo-humedales/
-├── index.html      Visor completo: interfaz, datos y lógica
-└── README.md       Presentación del proyecto
+├── index.html                    Visor completo: interfaz, datos y lógica
+├── README.md                     Presentación del proyecto
+├── Humedales_Urbanos.geojson     Datos fuente de humedales urbanos
+├── gi-sinader-2024-ckan.xlsx     Datos fuente SINADER 2024
+├── PLAN_DE_IMPLEMENTACION.md     Plan de trabajo del proyecto
+├── .vscode/                      Configuración local del editor
+├── .agents/                      Herramientas internas de trabajo
+└── openspec/                     Especificaciones y cambios del proyecto
 ```
 
 ## Datos
