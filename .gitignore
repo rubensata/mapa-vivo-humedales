@@ -1,0 +1,15 @@
+# Datos fuente y archivos de trabajo que no se publican
+*.xlsx
+*.geojson
+PLAN_DE_IMPLEMENTACION.md
+
+# Configuración local y herramientas internas
+.vscode/
+.agents/
+openspec/
+
+# Archivos temporales y del sistema
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
